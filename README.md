@@ -58,6 +58,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/G0Shark/G0Shark/output/snake.svg" alt="Snake animation" />
-
 ###
