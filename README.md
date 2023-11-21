@@ -10,7 +10,7 @@
 
 ###
 
-<h6 align="left">I am junior front-end developer, publish all my prgorams for me.<br>I love play games.<br>Help my friend and takes many time for school.<br>I am 12, live in Russia - Tomsk, my school is gim24<br>Main project: OceanLang, OceanLang on C \ C++, special programm for OceanLang on C#</h6>
+<h6 align="left">I am junior front-end developer, publish all my prgorams for me.<br>I love play games.<br>Help my friend and takes many time for school.<br>I am 13, live in Russia - Tomsk, my school is gim24<br>Main project: OceanLang, OceanLang on C \ C++, special programm for OceanLang on C#</h6>
 
 ###
 
