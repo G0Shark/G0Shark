@@ -82,6 +82,6 @@
 
 ###
 
-<p align="left">Если вы хотите связаться со мной для коллаборации, приглашения куда либо и так далее, напишите на [мой телеграм](https://web.telegram.org/k/#@OMegaDroid)<br>If you want to contact me for a collaboration, an invitation to go somewhere, and so on, write to [my telegram](https://web.telegram.org/k/#@OMegaDroid)</p>
+<p align="left">Если вы хотите связаться со мной для коллаборации, приглашения куда либо и так далее, напишите на мой телеграм<br>If you want to contact me for a collaboration, an invitation to go somewhere, and so on, write to my telegram</p>
 
 ###
