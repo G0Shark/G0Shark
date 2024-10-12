@@ -18,7 +18,7 @@
   <a href="https://discord.com/users/789155254494953522" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="https://web.telegram.org/k/#@OMegaDroid" target="_blank">
+  <a href="https://web.telegram.org/k/#@G0SharkTelegram" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
