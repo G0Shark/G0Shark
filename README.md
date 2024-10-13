@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://i.postimg.cc/ZqG2TwXQ/image.png"  />
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&repeat=false&width=510&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+G0Shark" alt="Typing SVG" /></a>
 
 ###
 
