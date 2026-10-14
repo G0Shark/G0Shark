@@ -8,7 +8,7 @@
 
 ###
 
-<h6 align="center">Мне 15 лет, и я уже как 2 года занимаюсь программированием.<br>Мой самый главный язык программирования это C#, но так-же я неплохо разбираюсь в PHP, Java и JavaScript и TypeScript.<br>Из фреймворков я разбираюсь в Discord.NET, CSSharp, Minecraft paper и множество библиотек для модификаций игр.<br>Живу в России, г. Томске. Я ученик 8А класса Сибирского лицея.</h6>
+<h6 align="center">Мне 15 лет, и я уже как 3 года занимаюсь программированием.<br>Мой самый главный язык программирования это C#, но так-же я неплохо разбираюсь в PHP, Java и JavaScript и TypeScript.<br>Из фреймворков я разбираюсь в Discord.NET, CSSharp, Minecraft paper и множество библиотек для модификаций игр.<br>С недавнего момента активно работаю с серверами и их администрированием.</h6>
 
 ###
 
@@ -75,50 +75,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=G0Shark&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=G0Shark&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<h1 align="center">Мои главные проекты</h1>
-
-###
-
-<div align="left">
-  <img height="60" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&width=480&lines=CS2_compilations&repeat=false"  />
-</div>
-
-###
-
-<p align="left">Некая программа, что позволяет играть в CS2 с усложнениями.<br>Для игры нужно минимум 4 человека, по два человека на команду. В каждой команде должны выбрать игрока и помощника. игрок играет в CS2 с другим игроком, в свою же очередь помощники выбирают усложнения противоположной команде.<br><br>Сама игра работает так. У вас есть холдер и дроп.<br>Холдер - ваша рука, на ней вы храните иветы (тобишь усложнения) и используйте их в любое время.<br>Дроп - это ежесекундная раздача ивентов, их кол-во рандомное. В нём вы должны выбирать ивент, который положится вам в руку (тобишь холдер).</p>
-
-###
-
-<div align="left">
-  <img height="35" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=F7F7F7&background=FF0000&center=true&vCenter=true&width=480&lines=%D0%92%D0%9D%D0%98%D0%9C%D0%90%D0%9D%D0%98%D0%95+%2F+ALERT"  />
-</div>
-
-###
-
-<h6 align="left">Прежде чем использовать эту программу в коммерческих целях свяжитесь со мной через телеграм<br>Before using this program for commercial purposes, please contact me via telegram</h6>
-
-###
-
-<div align="left">
-  <img height="60" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&width=600&lines=UnbelievaBoat_Logger&repeat=false"  />
-</div>
-
-###
-
-<p align="left">Програма для логирования баланса участников в боте UnbelievaBoat.<br><br>Программа каждые несколько минут скачивает сайт онлайн статистики баланса, парсит эту статистику, и выводит все изменения.</p>
-
-###
-
-<div align="left">
-  <img height="35" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=F7F7F7&background=FF0000&center=true&vCenter=true&width=480&lines=%D0%92%D0%9D%D0%98%D0%9C%D0%90%D0%9D%D0%98%D0%95+%2F+ALERT"  />
-</div>
-
-###
-
-<h6 align="left">Прежде чем использовать программу, узнайте у администратора сервер / проекта можно ли пользоваться такой программой.<br>Before using the program, ask the server / project administrator if it is possible to use such a program.</h6>
 
 ###
 
